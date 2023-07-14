@@ -5,4 +5,7 @@ As a data analyst working in the marketing analyst team at Cyclistic, a bike-sha
 ABOUT CYCLISTIC
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time.
 
-![Photo Credit Divvybikes](https://github.com/eniayejudaniel/Riding-the-Wave-of-Success-Strategies-for-Cyclistic-Bike-Share/assets/124352785/c3a105aa-797f-4541-bab7-65488ed99930)
+![Image](https://github.com/eniayejudaniel/Riding-the-Wave-of-Success-Strategies-for-Cyclistic-Bike-Share/assets/124352785/c3a105aa-797f-4541-bab7-65488ed99930) <figure>
+  <img src="image.png" alt="Photo Credit: Divvybikes">
+  <figcaption>Caption text</figcaption>
+</figure>
